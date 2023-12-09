@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhuloodAbdulmajeed
-- 👀 I’m interested in AI fiel
+- 👀 I’m interested in AI field
 - 🌱 I’m currently learning ML
 - 📫 How to reach me by my email: khulood.k.abdulmajeed@gmail.com
 
